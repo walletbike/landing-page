@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 一种全新的挖矿模式
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+骑车可以锻炼身体，骑车还可以挖矿。wallet.bike有两种挖矿模式，一种是骑行挖矿，另一种是相遇挖矿。wallet.bike基于DAGO公链，DAGO公链的特性是两个设备相遇则能产生Token激励。同样，当一辆wallet.bike遇见另一辆wallet.bike时，即可产生Token激励。而这一切都不需要连接互联网。
+
+wallet.bike鼓励大家从线上回归线下。
